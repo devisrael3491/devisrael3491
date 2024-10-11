@@ -8,4 +8,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisrael3491&layout=compact&theme=dark)
 
 ## Sobre mim:
-Olá! Sou um estudante focado em inteligência artificial e ciência de dados.
+Olá! Sou um estudante focado em inteligência artificial e ciência de dados voltada para o processamento digital de imagens, visão computacional e processamento de linguagem natural.
